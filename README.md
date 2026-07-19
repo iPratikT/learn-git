@@ -1,4 +1,4 @@
 # learn-git
 This is once again the new repo to learn git
-<\n>
+<br>
 Author - Pratik Tabhane
